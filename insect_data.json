@@ -1,0 +1,387 @@
+{
+  
+  "rice leaf roller": {  
+    "benefits": "Studied for developing pest-resistant rice varieties and understanding Lepidoptera insecticide resistance.",  
+    "problems caused": "Larvae roll and feed inside rice leaves, stripping chlorophyll and reducing photosynthesis. Severe infestations cause 'whiteheads' (empty panicles), yield losses up to 30%, and increased susceptibility to bacterial blight. Outbreaks escalate during monsoon, threatening food security across Southeast Asia and India.",  
+    "solutions": "Release egg parasitoids (e.g., *Trichogramma chilonis*). Spray chlorantraniliprole or emamectin benzoate during early larval stages. Remove weeds/volunteer rice to disrupt breeding. Deploy pheromone traps for monitoring. Flood fields post-harvest to drown pupae. Plant resistant cultivars (e.g., IR64). Avoid excessive nitrogen fertilizers that attract egg-laying moths."  
+  },
+ 
+   "rice leaf caterpillar": {
+      "benefits": "Although not beneficial to crops, rice leaf caterpillars serve as useful subjects for studying pest development and lifecycle, enabling researchers to design more efficient and eco-friendly pest management strategies. Their patterns of emergence and feeding also help in forecasting pest outbreaks and in designing warning systems for farmers.",
+      "problems caused": "Rice leaf caterpillars feed voraciously on the leaves of rice plants, especially at the seedling and tillering stages. Their feeding activity results in skeletonized leaves, significantly reducing the photosynthetic surface area. This damage weakens the plants, leads to stunted growth, and ultimately causes reduced grain yield. Under heavy infestations, entire leaf blades may be destroyed, forcing the plant to expend extra energy to regenerate foliage, delaying maturity and reducing resistance to other pests or diseases.",
+      "solutions": "To manage rice leaf caterpillars, adopt an integrated approach including light and pheromone traps to monitor adult moth activity. Encourage the presence of natural enemies like predatory beetles and parasitic wasps such as Trichogramma. Apply neem oil or Bacillus thuringiensis-based biopesticides for early-stage larvae. Maintain clean fields and avoid excessive nitrogen fertilizers, which attract more pests. In severe cases, use selective insecticides with minimal impact on beneficial insects."
+    },
+  
+    "paddy stem maggot": {
+      "benefits": "Though destructive, the biology and behavior of the paddy stem maggot can provide critical insight for researchers working on pest-resistant rice varieties. Their lifecycle data is valuable for the creation of pest alert systems and early warning networks in integrated pest management (IPM).",
+      "problems caused": "The maggots bore into the central shoot of young rice seedlings, causing a condition known as 'dead heart,' where the central leaf turns brown and dies. This damage stunts the plant's growth or kills it completely if infestation occurs early. Affected plants do not produce tillers, resulting in significant yield reduction. Damage is especially severe in nursery beds and during the early stages of crop growth, and if untreated, can affect a large portion of the field.",
+      "solutions": "Timely sowing and transplanting can help avoid peak infestation periods. Apply seed treatments with systemic insecticides to protect young seedlings. Avoid excessive use of nitrogen fertilizers, which promote lush growth that attracts maggots. Remove and destroy infested plants promptly. Maintain proper water levels, and apply chlorpyrifos or carbofuran granules around the root zone in nursery or early-transplanted fields for targeted control."
+    },
+  
+    "asiatic rice borer": {
+      "benefits": "Monitoring the Asiatic rice borer supports more effective scheduling of insecticide applications, and helps in the adoption of pest-resistant rice cultivars. It is also a model organism for studying stem borer population dynamics across rice-growing regions.",
+      "problems caused": "Larvae of the Asiatic rice borer bore into rice stems and tunnel through the pith, disrupting nutrient flow within the plant. This leads to symptoms such as 'dead heart' in young plants and 'white heads' during the flowering stage, where panicles fail to form grains. Infestations can occur throughout the growing season and, when unchecked, can cause up to 30% or more yield losses. The internal damage is often not visible until it's too late, making early detection challenging.",
+      "solutions": "Use pheromone traps to monitor adult moth populations and time interventions accordingly. Release egg parasitoids like Trichogramma japonicum and larval parasitoids like Bracon hebetor to reduce larval populations. Avoid continuous monoculture and remove crop residues after harvest to eliminate overwintering stages. For chemical control, apply insecticides like cartap hydrochloride or flubendiamide during the early larval stages when larvae are exposed and before they bore into stems."
+    },
+  
+    "yellow rice borer": {
+      "benefits": "Yellow rice borer infestations provide essential data on pest migration patterns and the environmental factors that affect pest populations. They are useful in fine-tuning regional IPM programs and developing automated pest warning systems.",
+      "problems caused": "The larvae of yellow rice borers penetrate and damage the stem, resulting in dead hearts during vegetative growth and whiteheads at the panicle stage. These symptoms lead to poor grain filling or empty grains, reducing harvest quality and quantity. The borers are particularly damaging in fields with dense planting and excessive nitrogen application. Infestation usually occurs in cycles, and multiple generations can overlap, making control more difficult if not timed properly.",
+      "solutions": "Avoid dense planting and limit nitrogen use to discourage borer proliferation. Monitor adult moth activity using light traps and pheromone lures. Deploy egg parasitoids and larval predators early in the season. Remove stubble and plow the field after harvest to destroy pupae. When infestations are heavy, apply contact insecticides such as fipronil or systemic options like chlorantraniliprole at recommended stages for maximum efficacy."
+    },
+  
+    "rice gall midge": {
+      "benefits": "This pest is valuable for studying insect-induced plant deformities and gall formation, which informs the development of resistant rice lines and helps refine pest surveillance methodologies.",
+      "problems caused": "Gall midges lay eggs on the growing points of rice plants. Upon hatching, larvae burrow into the stem and feed, causing abnormal swelling or galls to form. This leads to arrested growth, reduction in tiller formation, and total sterility in affected shoots. The resulting galls do not bear panicles, directly lowering productivity. The pest tends to be more prevalent in poorly managed or staggered rice fields, where planting times vary widely.",
+      "solutions": "Use early-maturing and gall midge-resistant rice varieties suited for your region. Practice synchronized planting to minimize overlapping generations of pests. Avoid staggered sowing and maintain field sanitation. Insecticide sprays such as imidacloprid or carbosulfan can be applied at the seedling stage or during early infestation. Water management and field rotation also help in breaking the pest cycle. Monitoring with light traps is recommended for early detection."
+    },
+  
+      "Rice Stemfly": {
+        "benefits": "Although harmful to crops, studying the lifecycle of the rice stemfly helps researchers better understand insect behavior and develop timing-based pest management systems. Its presence in early stages can serve as an indicator for upcoming pest outbreaks, allowing timely intervention.",
+        "problems caused": "Rice stemfly maggots damage the plant by boring into the base of young seedlings and tillers, creating a condition called 'dead heart,' where the central shoot dies while the outer leaves remain green. This disrupts plant development and severely affects tiller formation. The pest is especially active in the nursery and early vegetative stages, and if not controlled early, it may result in considerable stand loss and yield decline. Symptoms are often confused with other pests, leading to late detection and poor control measures.",
+        "solutions": "Ensure timely sowing and transplanting to escape peak pest periods. Remove and destroy infested plants promptly. Maintain optimal water levels and avoid waterlogging, which favors pest development. Seed treatments with imidacloprid or carbofuran help protect young seedlings. In the field, use light traps to monitor adult fly activity and apply targeted insecticides like chlorpyrifos or fipronil if pest levels exceed threshold."
+      },
+    
+      "brown plant hopper": {
+        "benefits": "Brown plant hoppers act as bioindicators of ecological imbalances due to overuse of insecticides. Studying them aids in developing IPM strategies and understanding vector-borne plant viruses.",
+        "problems caused": "Brown plant hoppers (BPH) feed by sucking sap from the base of rice plants, causing a condition known as ‘hopper burn,’ where plants turn yellow, wilt, and eventually die in patches. BPH can also transmit viral diseases such as grassy stunt and ragged stunt viruses. Infestations spread rapidly under humid conditions and in fields with excessive nitrogen fertilizer, creating a favorable environment for population explosions. Damage is often extensive before detection, as hoppers remain at the plant base and multiply quickly.",
+        "solutions": "Adopt resistant rice varieties and avoid overuse of nitrogen fertilizers. Use biological control agents such as mirid bugs and spiders that prey on hoppers. Light traps can help monitor adult populations. Ensure proper spacing during transplanting to reduce humidity and limit pest breeding. For chemical control, apply systemic insecticides like buprofezin or dinotefuran when hopper populations reach economic thresholds. Rotate chemicals to avoid resistance."
+      },
+    
+      "white backed plant hopper": {
+        "benefits": "They help in tracking the spread of virus-transmitting vectors in rice ecosystems. They are also used in ecological studies for insect-virus-host relationships in rice farming.",
+        "problems caused": "White-backed plant hoppers (WBPH) feed on plant phloem sap, weakening rice plants and causing stunted growth, poor tillering, and eventually hopper burn, similar to BPH. WBPH are also known vectors of the Southern rice black-streaked dwarf virus. Heavy infestations often go unnoticed until substantial damage has occurred. Dense populations may also interfere with pollination and panicle development, resulting in significant yield losses.",
+        "solutions": "Cultivate resistant or tolerant rice varieties, and maintain balanced fertilizer use to avoid excessive nitrogen, which attracts hoppers. Ensure clean field bunds to limit pest habitats. Biological control through predators like Cyrtorhinus lividipennis helps suppress populations naturally. Apply insecticides like pymetrozine or flonicamid during peak infestation periods. Use yellow sticky traps for monitoring and early intervention."
+      },
+    
+      "small brown plant hopper": {
+        "benefits": "Small brown plant hoppers play a crucial role in ecological research related to rice virus epidemiology and pest-host interactions. Their behavior patterns assist in designing more efficient trap-based IPM strategies.",
+        "problems caused": "These hoppers feed on the vascular tissues of rice plants and act as vectors for several plant viruses, including the rice stripe virus. Infestation leads to poor plant vigor, yellowing, stunted growth, and eventually, hopper burn. Their small size and rapid reproduction make early detection difficult. Continuous damage over several weeks can lead to widespread crop failure if not addressed, particularly in paddy fields with overlapping crop cycles.",
+        "solutions": "Use rice varieties resistant to hoppers and the viruses they transmit. Synchronize planting times to minimize vector build-up. Introduce natural predators like ladybird beetles and spiders. Avoid overlapping planting seasons. Use selective insecticides such as ethiprole or isoprocarb when hopper populations exceed threshold levels. Sticky traps and routine field scouting are key to timely detection and control."
+      },
+    
+      "rice water weevil": {
+        "benefits": "Their presence in rice fields is often used to evaluate the impact of field flooding on pest outbreaks. Their lifecycle also provides valuable data for planning water management schedules in rice cultivation.",
+        "problems caused": "Adult rice water weevils feed on rice leaves, causing longitudinal scars, but the major damage is caused by larvae feeding on root systems. This results in reduced nutrient uptake, stunted growth, poor tillering, and low grain filling. Damage is particularly severe during the early growth stages and in flooded fields where larvae thrive. Heavy infestations can cause yield losses of up to 30–40%. Weakened root systems also make plants more susceptible to lodging and other stresses.",
+        "solutions": "Drain fields temporarily during early growth stages to expose and kill larvae. Use seed treatments with insecticides like thiamethoxam or clothianidin to protect seedlings. Incorporate crop rotation and field sanitation after harvest to disrupt pest life cycles. Avoid continuous monoculture and maintain proper field leveling to prevent standing water. Apply larvicides only when root damage is confirmed, and use insect growth regulators to limit long-term population buildup."
+      },
+    
+      "rice leafhopper": {
+        "benefits": "Rice leafhoppers are key to virus-vector interaction studies and are used in research on resistant gene transfer from wild rice to cultivated varieties. Their population dynamics inform ecological modeling in pest forecasting.",
+        "problems caused": "Leafhoppers pierce plant tissues to suck sap, causing yellowing, curling of leaves, and reduced plant vigor. They are primary vectors of rice tungro virus, which can decimate entire rice fields. The infected plants show stunted growth, delayed maturity, and sterility. Leafhopper populations build up rapidly under hot and dry conditions, and often escape notice due to their small size and agility.",
+        "solutions": "Grow tungro-resistant rice varieties and practice synchronous planting across fields. Regularly remove infected plants to reduce virus sources. Maintain weed-free bunds to eliminate alternate hosts. Introduce natural enemies like egg parasitoids (Anagrus spp.) and spiders. Use imidacloprid or acetamiprid sprays at early stages of infestation. Routine field scouting with sweep nets is essential for early detection and control."
+      },
+    
+      "grain spreader thrips": {
+        "benefits": "These insects are often used in studies on pest mobility and behavior in rice ecosystems. They help improve understanding of the relationship between insect population density and flowering phase damage.",
+        "problems caused": "Grain spreader thrips attack developing grains and panicles, especially during the flowering stage. They suck out plant fluids, causing panicles to remain closed, resulting in unfilled grains and poor yield. Infested spikelets often show discoloration and shriveling. Under severe conditions, thrips can significantly reduce grain quality and quantity. Dry weather favors rapid thrip population build-up, making timely management critical.",
+        "solutions": "Avoid staggered planting and maintain field hygiene to disrupt thrip lifecycle. Encourage predators such as minute pirate bugs and predatory thrips. Use neem-based sprays or spinosad in early flowering stages. Apply light irrigation during panicle emergence to reduce thrip infestation. Chemical insecticides like fipronil or lambda-cyhalothrin can be applied judiciously when infestation exceeds economic threshold levels."
+      },
+    
+      "rice shell pest": {
+        "benefits": "Studying shell pests contributes to the development of pest-proof grain storage solutions. Their feeding behavior also provides insights into seed protection and crop preservation techniques.",
+        "problems caused": "Rice shell pests damage the grains either while still in the field or during storage. They feed on the developing grains, hollowing them out and leaving behind empty shells. Infestation during the milky grain stage leads to drastic quality and yield reduction. Infested grains are also prone to fungal infections, reducing their market value and making them unsuitable for consumption or planting.",
+        "solutions": "Ensure timely harvesting to avoid field infestation. Maintain dry conditions in storage areas and treat seeds with appropriate grain protectants. Apply insecticides like deltamethrin during the milky stage if needed. Use biological agents like parasitoid wasps to target larvae in the field. Clean and disinfect storage containers regularly and use airtight bags to prevent pest entry post-harvest."
+      },
+    
+      "grub": {
+        "benefits": "Grubs serve as decomposers in natural ecosystems, breaking down organic matter and contributing to soil health. They also serve as a food source for birds and other beneficial predators.",
+        "problems caused": "Grubs are the larvae of beetles that live underground and feed on the roots of rice plants. This underground feeding causes plants to become weak, yellow, and stunted. Severely affected plants may wither and die. Grub infestations often go unnoticed until significant damage has been done. The larvae also loosen the soil, making plants more vulnerable to lodging during storms or irrigation.",
+        "solutions": "Deep plowing before planting exposes larvae to predators like birds and ants. Apply neem cake or insecticidal granules like phorate in the soil at sowing or transplanting. Maintain proper field drainage to discourage grub development. Crop rotation with non-host crops also helps reduce population. In serious infestations, soil drenching with chlorpyrifos or imidacloprid is effective."
+      },
+
+        "mole cricket": {
+          "benefits": "Mole crickets aerate the soil through their burrowing activities, which can improve soil structure and water infiltration in natural ecosystems.",
+          "problems caused": "Mole crickets feed on the roots and stems of various plants, including turfgrass, pastures, and vegetables. Their tunneling disrupts the soil structure, leading to plant instability and increased vulnerability to drought. Invasive species can cause significant damage to lawns and agricultural fields, resulting in substantial economic losses.",
+          "solutions": "Biological control methods have proven effective, including the introduction of the Larra bicolor wasp and insect-parasitic nematodes. Maintaining healthy turf through proper irrigation and mowing can reduce mole cricket infestations. In severe cases, targeted insecticide applications may be necessary, but they should be used judiciously to minimize environmental impact."
+        },
+        "wireworm": {
+          "benefits": "Wireworms play a role in the decomposition process by feeding on organic matter, contributing to nutrient cycling in the soil.",
+          "problems caused": "Wireworms are the larval stage of click beetles and are notorious for damaging the seeds, roots, and underground stems of crops like potatoes, corn, and cereals. Their feeding can lead to poor germination, stunted growth, and significant yield reductions, posing a serious threat to agricultural productivity.",
+          "solutions": "Implementing crop rotation with non-host crops can disrupt the wireworm life cycle. Soil tillage exposes wireworms to predators and environmental conditions that reduce their populations. Chemical control using neonicotinoid insecticides at planting has shown effectiveness, but should be integrated with other management practices to prevent resistance development and environmental concerns."
+        },
+        "white margined moth": {
+          "benefits": "This moth species contributes to the food web by serving as prey for various predators, including birds and bats.",
+          "problems caused": "While the white margined moth is generally not considered a major agricultural pest, its larvae can feed on the foliage of certain plants, potentially causing minor defoliation. In large numbers, they may stress plants, leading to reduced vigor and aesthetic damage in ornamental settings.",
+          "solutions": "Monitoring plant health and maintaining garden hygiene can prevent significant infestations. Encouraging natural predators and using manual removal methods, such as handpicking larvae, are effective control strategies. Chemical controls are rarely necessary and should be considered only in severe cases."
+        },
+        "black cutworm": {
+          "benefits": "Black cutworms serve as a food source for various wildlife species, including birds and small mammals, thus playing a role in the ecosystem.",
+          "problems caused": "Black cutworm larvae are known for cutting down young plants at the base during nighttime feeding, affecting crops like corn, soybeans, and various vegetables. Their activity can lead to significant stand losses and necessitate replanting, resulting in increased labor and input costs for farmers.",
+          "solutions": "Preventive measures include removing plant debris and controlling weeds to reduce egg-laying sites. Monitoring with pheromone traps helps in early detection. Insecticide treatments, particularly seed-applied diamides and neonicotinoids, can protect seedlings, but their effectiveness may vary with infestation levels. Rescue treatments are often the most efficient and economical approach when infestations are identified."
+        },
+        "large cutworm": {
+          "benefits": "Large cutworms are part of the natural food chain, providing nourishment for predators such as birds and beneficial insects.",
+          "problems caused": "Similar to other cutworm species, large cutworms feed on the stems of young plants at or below the soil surface, causing them to wilt and die. They pose a threat to a wide range of crops, including cereals, vegetables, and ornamentals, leading to reduced plant populations and potential yield losses.",
+          "solutions": "Cultural practices like deep plowing and removal of plant residues can disrupt their life cycle. Installing physical barriers, such as collars around seedlings, can protect plants from larval feeding. Biological control through natural predators and parasitoids should be encouraged. Chemical controls may be employed when necessary, following integrated pest management guidelines to minimize environmental impact."
+        },
+
+        "legume blister beetle": {
+          "benefits": "While legume blister beetles can be pests, they also play a role in controlling grasshopper populations, as their larvae feed on grasshopper eggs.",
+          "problems caused": "Legume blister beetles feed on the foliage and flowers of leguminous crops, leading to defoliation and reduced yields. Their presence in harvested forage poses a risk to livestock, as they contain cantharidin, a toxic compound that can cause severe illness or death in animals consuming contaminated feed.",
+          "solutions": "To manage legume blister beetle infestations, monitor fields regularly and implement timely harvesting to avoid peak beetle populations. Avoid using hay crimpers during harvesting, as crushed beetles can contaminate forage. Insecticide applications may be necessary in severe cases, but care must be taken to prevent residue issues in harvested crops. "
+        },
+        "blister beetle": {
+          "benefits": "Blister beetles contribute to the ecosystem by preying on grasshopper eggs, thus helping to regulate grasshopper populations.",
+          "problems caused": "Blister beetles are known for their destructive feeding on a variety of crops, including alfalfa, potatoes, and tomatoes. Their aggregation in swarms can lead to significant defoliation. Additionally, their secretion of cantharidin poses a serious threat to livestock, particularly horses, when beetles are inadvertently included in hay.",
+          "solutions": "Effective management includes regular field scouting and avoiding hay crimping during harvest to prevent beetle contamination. Allowing cut hay to dry thoroughly can encourage beetles to vacate before baling. Insecticide treatments should be considered when beetle populations reach economic thresholds, with spot treatments being preferable to minimize environmental impact."
+        },
+        "therioaphis maculata Buckton": {
+          "benefits": "This species serves as a food source for various predators, including lady beetles and lacewings, thus contributing to the biological control of aphid populations.",
+          "problems caused": "Therioaphis maculata, commonly known as the spotted alfalfa aphid, infests alfalfa crops, causing yellowing, stunted growth, and reduced forage quality. Heavy infestations can lead to significant yield losses and may also transmit plant viruses, compounding the damage to crops.",
+          "solutions": "Integrated pest management strategies are effective against this aphid species. Introducing natural enemies, such as parasitoid wasps, can help control populations. Selecting resistant alfalfa varieties and maintaining proper irrigation and fertilization practices enhance plant resilience. Insecticide applications may be warranted in severe infestations but should be used judiciously to preserve beneficial insect populations."
+        },
+        "odontothrips loti": {
+          "benefits": "Odontothrips loti plays a role in the food web, serving as prey for predatory insects and contributing to the ecological balance.",
+          "problems caused": "Odontothrips loti is a significant pest of alfalfa, causing direct damage through feeding on leaves and flowers, leading to reduced photosynthesis and plant vigor. Additionally, it can transmit plant viruses, further compromising crop health and yield. Infestations can result in substantial economic losses for alfalfa producers.",
+          "solutions": "Management includes monitoring thrips populations using sticky traps and implementing cultural practices such as crop rotation and removal of plant debris to reduce breeding sites. Biological control through the introduction of natural predators can be effective. Research into semiochemical attractants offers potential for developing targeted control methods."
+        },
+        "Thrips": {
+          "benefits": "Thrips contribute to the ecosystem by pollinating certain plant species and serving as a food source for various predators.",
+          "problems caused": "Thrips are tiny, sap-sucking insects that damage a wide range of plants by feeding on leaves, flowers, and fruits, leading to discoloration, deformities, and reduced marketability. They also act as vectors for plant viruses, exacerbating their impact on agricultural productivity.",
+          "solutions": "Effective thrips management involves a combination of cultural, biological, and chemical methods. Regular monitoring and removal of infested plant material can reduce populations. Introducing natural predators, such as predatory mites, helps maintain control. Insecticidal soaps and horticultural oils can be applied to affected areas, with repeated treatments as necessary. "
+        },
+      
+      
+        "alfalfa seed chalcid": {
+          "benefits": "Although primarily considered a pest, understanding the lifecycle of the alfalfa seed chalcid supports better seed crop management and may enhance IPM strategies.",
+          "problems caused": "The alfalfa seed chalcid lays eggs inside developing alfalfa seeds. The larvae feed on the seeds, causing them to become hollow or deformed, significantly reducing the quantity and quality of seed harvest. Infestations may go unnoticed until harvest, leading to major yield losses and poor germination rates.",
+          "solutions": "Effective management includes early planting to escape peak egg-laying periods and using resistant alfalfa varieties. Rotating crops and avoiding repeated planting of alfalfa in the same fields reduces chalcid populations. Seed sampling before harvest helps detect infestation levels. If necessary, insecticides may be used, but are generally not preferred due to impact on pollinators."
+        },
+        "Pieris canidia": {
+          "benefits": "As a butterfly, Pieris canidia contributes to pollination and adds biodiversity to the ecosystem, playing a minor role in pollinating small flowering plants.",
+          "problems caused": "Pieris canidia larvae, commonly known as cabbage white caterpillars, are voracious feeders that attack cruciferous crops like cabbage, mustard, and cauliflower. They chew through leaves and cause holes, stunted growth, and lower market value. Severe infestations can lead to complete defoliation, affecting both yield and quality of produce.",
+          "solutions": "Handpicking larvae and using netting to exclude adults can reduce damage. Encourage natural enemies like birds, parasitic wasps, and predatory beetles. Neem-based biopesticides and Bacillus thuringiensis (Bt) sprays are effective biological control measures. Regular crop rotation and field sanitation also help disrupt breeding cycles and reduce larval emergence."
+        },
+        "Apolygus lucorum": {
+          "benefits": "This mirid bug serves as prey for larger insects and birds, thus contributing to the food chain and supporting biodiversity in agricultural ecosystems.",
+          "problems caused": "Apolygus lucorum is a polyphagous pest known to damage cotton, fruits, and vegetables. It feeds by piercing plant tissues and sucking sap, causing necrotic spots, flower drop, distorted fruits, and reduced fruit set. This can lead to serious economic losses, especially in orchards and cotton fields during flowering and fruiting stages.",
+          "solutions": "Monitor fields with pheromone traps and sweep nets. Introduce natural predators like Orius bugs and parasitic wasps. Avoid excessive nitrogen fertilization, as it attracts pests. Insecticides may be used during critical crop stages, but rotation of chemical classes is necessary to prevent resistance. Employing intercropping can also deter infestations."
+        },
+        "Limacodidae": {
+          "benefits": "Although some species are pests, Limacodidae moths contribute to the food chain, providing nourishment for birds, bats, and predatory insects.",
+          "problems caused": "Limacodidae caterpillars, often called slug caterpillars, damage crops by feeding on leaves, especially of fruit trees, tea, and ornamental plants. Their stinging spines cause skin irritation to humans and livestock. Leaf damage reduces photosynthesis, weakening the plant and making it more susceptible to disease and environmental stress.",
+          "solutions": "Manual removal of caterpillars is effective in small-scale settings. Encourage birds and parasitic wasps as biological control agents. In large infestations, neem oil or Bt sprays are useful for reducing populations. Pruning infested branches and maintaining field hygiene help minimize hiding spots and reduce egg-laying opportunities."
+        },
+        "Viteus vitifoliae": {
+          "benefits": "This insect has had historical value in viticulture research, leading to the development of resistant rootstocks and improved grafting techniques in grape farming.",
+          "problems caused": "Viteus vitifoliae, or grape phylloxera, is a major pest of grapevines. It feeds on roots, causing nodules and swellings that interfere with nutrient uptake. Infested vines exhibit yellowing, stunted growth, and eventual vine death. On leaves, it causes galls, further weakening the plant and reducing fruit yield and quality.",
+          "solutions": "Using phylloxera-resistant rootstocks is the most effective long-term solution. Avoid planting susceptible varieties in infested soils. Grafting European grape varieties onto American resistant rootstocks has proven successful. Chemical treatments are largely ineffective on root-feeding forms. Sanitation of tools and restricting soil movement between vineyards can help prevent spread."
+        },
+      
+      
+        "Colomerus vitis": {
+          "benefits": "While Colomerus vitis is primarily a pest, its presence can indicate the need for improved vineyard management practices, serving as a biological indicator.",
+          "problems caused": "Colomerus vitis, commonly known as the grape erineum mite, causes the formation of felt-like galls on the underside of grapevine leaves. These galls disrupt photosynthesis, leading to reduced vine vigor and potential yield losses. Severe infestations can also affect bud development and overall plant health. ",
+          "solutions": "Management includes applying sulfur sprays during the growing season, which effectively control mite populations. Pruning and destroying infested plant material can reduce overwintering sites. Monitoring and early intervention are crucial to prevent severe infestations. "
+        },
+        "Brevipoalpus lewisi McGregor": {
+          "benefits": "Although a pest, Brevipoalpus lewisi can serve as a food source for predatory mites, contributing to the ecological balance within citrus orchards.",
+          "problems caused": "Brevipoalpus lewisi, known as the citrus flat mite, feeds on the surface of citrus fruits and leaves, causing russeting and blemishes that reduce marketability. Heavy infestations can lead to significant economic losses due to downgraded fruit quality. ",
+          "solutions": "Control strategies include the application of miticides during periods of high mite activity. Introducing natural predators, such as predatory mites, can provide biological control. Regular monitoring and maintaining orchard hygiene help in early detection and management. "
+        },
+        "Oides decempunctata": {
+          "benefits": "Oides decempunctata, while a pest, can be part of the food web, supporting populations of natural predators in the ecosystem.",
+          "problems caused": "Oides decempunctata is a leaf beetle that feeds on the foliage of various plants, including grapes. Its feeding results in characteristic holes and notches on leaves, leading to reduced photosynthetic capacity and potential yield loss. ",
+          "solutions": "Management involves regular monitoring and the use of insecticides when necessary. Cultural practices, such as removing weeds and alternative host plants, can reduce beetle populations. Implementing integrated pest management strategies helps in sustainable control."
+        },
+        "Polyphagotars onemus latus": {
+          "benefits": "Polyphagotarsonemus latus, or the broad mite, can be a food source for predatory mites, thus playing a role in the ecological food chain.",
+          "problems caused": "The broad mite infests a wide range of host plants, including peppers, tomatoes, and ornamentals. Feeding causes distorted and hardened growth, leaf curling, and bronzing, leading to reduced plant vigor and yield. ",
+          "solutions": "Effective control includes the application of miticides and the introduction of predatory mites like Neoseiulus cucumeris. Maintaining optimal greenhouse conditions and regular monitoring can prevent infestations. "
+        },
+        "Pseudococcus comstocki Kuwana": {
+          "benefits": "Pseudococcus comstocki serves as prey for various natural enemies, including parasitoid wasps and lady beetles, contributing to biological control dynamics.",
+          "problems caused": "Commonly known as the Comstock mealybug, it infests a variety of fruit trees, sucking sap and excreting honeydew, which leads to sooty mold growth. This results in reduced photosynthesis, fruit quality, and overall plant health. ",
+          "solutions": "Management includes the use of biological control agents like parasitoid wasps. Chemical controls should be timed to target crawler stages for effectiveness. Regular monitoring and maintaining orchard hygiene are essential for control. "
+        },
+     
+        "parathrene regalis": {
+          "benefits": "Although a pest, studying Parathrene regalis helps in understanding the dynamics of borers in fruit orchards, which can guide better pest forecasting and preventive measures.",
+          "problems caused": "Parathrene regalis, commonly known as the peach trunk borer, attacks fruit trees by boring into trunks and branches. Larvae create tunnels that disrupt nutrient flow, leading to dieback, reduced fruit yield, and in severe cases, tree death. Gumming around the entry points and frass accumulation are common signs. Young trees are especially vulnerable to severe damage, impacting long-term orchard productivity.",
+          "solutions": "Integrated pest management strategies include monitoring for adult moths using pheromone traps and inspecting trees for borer entry holes. Mechanical removal of larvae, application of insecticides around the base during peak egg-laying periods, and trunk wraps can help. Biological control with parasitic nematodes or wasps also offers effective and eco-friendly solutions."
+        },
+        "Ampelophaga": {
+          "benefits": "Some Ampelophaga species contribute to pollination while feeding on nectar as adults. Their larvae serve as food for birds and predatory insects, maintaining ecosystem balance.",
+          "problems caused": "Ampelophaga caterpillars, like other hawk moths, feed voraciously on leaves of host plants such as grapevines, creating defoliation issues. Severe infestations can weaken vines, reduce photosynthesis, and negatively impact fruit development. Young vines are particularly susceptible, and if left unmanaged, infestations can hinder growth and reduce crop yield over time.",
+          "solutions": "Handpicking larvae and destroying egg clusters is effective in smaller vineyards. Natural predators such as birds and parasitic wasps help regulate their population. Neem-based or Bacillus thuringiensis (Bt) sprays can control young larvae. Maintaining biodiversity around the vineyard supports natural biological control mechanisms and reduces the risk of pest outbreaks."
+        },
+        "Lycorma delicatula": {
+          "benefits": "Though a pest, Lycorma delicatula has led to the development of improved surveillance systems and IPM strategies in affected regions, promoting research in pest control technologies.",
+          "problems caused": "Lycorma delicatula, known as the spotted lanternfly, is an invasive pest affecting grapes, fruit trees, and hardwoods. It feeds on phloem sap, excreting honeydew that leads to sooty mold, which hinders photosynthesis and reduces crop quality. Heavy infestations can weaken plants and lead to yield loss, posing major threats to viticulture and forestry industries.",
+          "solutions": "Control involves scraping and destroying egg masses, using sticky traps on trees, and applying systemic insecticides when necessary. Conservation of natural predators like spiders and parasitic wasps helps regulate the population. Public awareness and quarantine measures are vital to slow its spread in uninfested regions. Biological control programs are also under development."
+        },
+        "Xylotrechus": {
+          "benefits": "Xylotrechus beetles are part of the natural wood decomposition cycle, aiding in nutrient recycling in forest ecosystems when not attacking live trees.",
+          "problems caused": "Xylotrechus beetles are wood borers that damage trees by tunneling into trunks and branches. Their larvae bore extensive galleries, which compromise structural integrity, disrupt nutrient transport, and can cause branch dieback. In managed orchards and urban landscapes, their activity can lead to tree decline or death and reduce timber value significantly.",
+          "solutions": "Monitoring adult activity with pheromone traps can help time insecticide applications. Removal of infested branches, maintaining tree health, and debarking deadwood helps reduce breeding sites. Natural predators like woodpeckers, parasitic wasps, and entomopathogenic fungi also assist in keeping populations in check. Chemical treatment is used as a last resort in commercial forests."
+        },
+        "Cicadella viridis": {
+          "benefits": "Cicadella viridis plays a role in nutrient cycling and serves as prey for spiders, birds, and predatory insects in various habitats.",
+          "problems caused": "Cicadella viridis, the green leafhopper, feeds on the sap of grasses, clovers, and various crops. While feeding, it can transmit plant pathogens and cause ‘hopperburn’ symptoms—leaf yellowing, curling, and drying. Heavy infestations weaken plants, reduce photosynthetic capacity, and can significantly affect yield in forage crops and small grains, especially in humid regions.",
+          "solutions": "Management includes monitoring population levels using sweep nets and reducing nearby grassy weeds that serve as alternate hosts. Encouraging beneficial insects like parasitic wasps and lady beetles helps naturally suppress populations. Insecticides may be used in severe outbreaks but should be part of an integrated approach to prevent resistance and protect pollinators."
+        },
+     
+        "Miridae": {
+          "benefits": "Some species within the Miridae family are beneficial, acting as predators of other insect pests. They help in natural biological control in agricultural ecosystems when present in balance.",
+          "problems caused": "Certain Miridae species, commonly known as plant bugs, pierce plant tissues to suck sap. This causes necrotic spots, leaf curling, distorted growth, and premature fruit drop. In fruits and vegetables, they can reduce market value by damaging the appearance. Their feeding also transmits plant pathogens, further worsening crop health and reducing yield.",
+          "solutions": "Monitoring with sticky traps and early field inspection help in identifying infestations. Encouraging natural enemies like lacewings and lady beetles helps reduce their population. Insecticidal soap or selective insecticides can be used in serious outbreaks. Avoiding excessive nitrogen fertilization also reduces their attraction to crops."
+        },
+        "Trialeurodes vaporariorum": {
+          "benefits": "Studying Trialeurodes vaporariorum aids in the advancement of greenhouse pest control techniques and biological pesticide development.",
+          "problems caused": "Also known as the greenhouse whitefly, this pest infests a wide range of vegetable and ornamental crops, especially under greenhouse conditions. It feeds on the underside of leaves, excreting sticky honeydew that promotes black sooty mold. This weakens the plant, reduces photosynthesis, stunts growth, and diminishes yield and aesthetic value.",
+          "solutions": "Use yellow sticky traps for early detection and control. Biological agents like Encarsia formosa, a parasitic wasp, are effective. Insect growth regulators and neem-based products help suppress populations. Maintaining ventilation and avoiding overwatering can reduce humidity, making the environment less favorable for whiteflies."
+        },
+        "Erythroneura apicalis": {
+          "benefits": "As part of natural ecosystems, Erythroneura apicalis serves as prey for spiders and beneficial predatory insects, maintaining ecological balance.",
+          "problems caused": "This leafhopper species targets grapevines and other crops, feeding on the sap and causing stippling and leaf yellowing. Prolonged infestations result in leaf curling, reduced photosynthetic ability, and premature leaf drop. This weakens the plant, impacting fruit quality and yield. It also has the potential to transmit plant diseases.",
+          "solutions": "Monitoring with sticky cards and examining the undersides of leaves can help detect infestations early. Natural predators such as green lacewings and lady beetles help control populations. Systemic insecticides and neem oil are used for chemical control. Pruning infested leaves and improving airflow in vineyards also help."
+        },
+        "Papilio xuthus": {
+          "benefits": "The Papilio xuthus, or Asian swallowtail butterfly, is a vital pollinator and an indicator of ecosystem health. Its presence often reflects biodiversity in an area.",
+          "problems caused": "While beautiful and ecologically important, the larvae (caterpillars) of Papilio xuthus can be a pest in citrus orchards. They consume large amounts of leaves, leading to defoliation and reduced photosynthesis. This can weaken young trees and impact fruit production. In severe cases, repeated infestations reduce tree vigor and overall orchard productivity.",
+          "solutions": "Manual removal of caterpillars and eggs is effective in smaller orchards. Natural predators like birds and parasitic wasps help in population control. Neem oil sprays and Bacillus thuringiensis (Bt) are eco-friendly options. Preserving biodiversity and planting decoy host plants can divert butterflies away from commercial trees."
+        },
+        "Panonchus citri McGregor": {
+          "benefits": "Studying Panonchus citri contributes to improved understanding of mite biology, supporting development of targeted acaricides and biological control agents.",
+          "problems caused": "Also known as the citrus red mite, this pest feeds on the leaves, fruits, and green twigs of citrus plants. Feeding causes leaf stippling, silvering, and in severe infestations, leaf drop and reduced fruit set. The damage interferes with photosynthesis and may reduce the market value of fruit due to cosmetic blemishes.",
+          "solutions": "Regular monitoring is key. Natural predators like predatory mites can be introduced to maintain ecological balance. Sulfur-based sprays and selective miticides help control populations. Avoiding excessive pesticide use protects beneficial organisms and delays resistance development. Ensuring proper irrigation and nutrient balance strengthens plant defenses."
+        },
+      
+        
+          "Phyllocoptes oleiverus ashmead": {
+            "benefits": "Research aids in understanding mite-plant interactions.",
+            "problems caused": "Infests olive trees, causing leaf erineum (abnormal hairy growths) and distortion. Severe infestations reduce photosynthesis, weaken trees, and lead to premature leaf drop. This impacts olive yield and quality, particularly in commercial orchards. Young trees are most vulnerable, with stunted growth increasing long-term production costs.",
+            "solutions": "Prune and destroy heavily infested leaves. Apply wettable sulfur or abamectin during early infestation stages. Introduce predatory mites (e.g., Neoseiulus californicus). Avoid excessive nitrogen fertilizers, which promote mite-friendly tender foliage. Monitor orchards regularly with magnifying lenses to detect early symptoms."
+          },
+          "Icerya purchasi Maskell": {
+            "benefits": "Key example of successful biological control.",
+            "problems caused": "Cottony cushion scale sucks sap from citrus, ornamentals, and acacias, excreting sticky honeydew that fosters sooty mold. Heavy infestations cause leaf yellowing, dieback, and fruit drop. Weakens trees, making them susceptible to secondary pathogens. Spreads rapidly in warm climates, threatening export compliance due to quarantine regulations.",
+            "solutions": "Release Rodolia cardinalis (vedalia beetle) larvae, which devour scales. For severe cases, spray narrow-range oils mixed with buprofezin. Remove ant colonies that protect scales. Prune infested branches and dispose safely. Avoid broad-spectrum pesticides that harm beneficial insects."
+          },
+          "Unaspis yanonensis": {
+            "benefits": "Studied for scale insect host preferences.",
+            "problems caused": "Yanone scale infests citrus trunks, leaves, and fruit, causing yellowing, defoliation, and fruit scarring. Heavy infestations block nutrient flow, killing branches and reducing yields by up to 70%. Sooty mold from honeydew further degrades fruit marketability. Common in East Asian citrus groves.",
+            "solutions": "Apply dormant oil sprays in winter to smother scales. Release parasitic wasps (Aphytis spp.). Scrub trunks with stiff brushes to dislodge scales. Use systemic imidacloprid for young trees. Remove alternate hosts like ivy near orchards."
+          },
+          "Ceroplastes rubens": {
+            "benefits": "Wax secretion mechanisms studied for biomimicry.",
+            "problems caused": "Pink wax scale coats stems/leaves of mango, citrus, and gardenias with dense wax, sucking sap and excreting honeydew. Weakens plants, causing leaf drop and dieback. Sooty mold growth reduces photosynthesis. Heavy infestations attract ants, complicating control efforts.",
+            "solutions": "Manual removal of scales using soft brushes. Spray horticultural oil mixed with bifenthrin during crawler emergence. Introduce parasitic wasps (Metaphycus helvolus). Avoid over-pruning, which stresses plants. Apply potassium bicarbonate to combat sooty mold."
+          },
+          "Chrysomphalus aonidum": {
+            "benefits": "Model for studying armored scale resilience.",
+            "problems caused": "Florida red scale infests citrus, palms, and avocado, forming circular colonies on fruit rinds and leaves. Feeding causes yellow halos, premature fruit drop, and leaf desiccation. Severe outbreaks render fruits unmarketable due to blemishes. Common in humid coastal regions.",
+            "solutions": "Time insecticide applications to target crawlers (use sticky bands for detection). Spray spirotetramat or pyriproxyfen. Conserve Aphytis melinus parasitoids. Remove fallen infested leaves/fruit. Improve airflow via pruning to reduce humidity favoring scales."
+          },
+          "Parlatoria zizyphus Lucus": {
+            "benefits": "Adaptation to arid climates studied.",
+            "problems caused": "Date palm scale encrusts fronds and fruit, causing chlorosis, reduced photosynthesis, and fruit scarring. Infested palms produce smaller, misshapen dates unsuited for export. Prolonged infestations kill fronds, requiring costly replacements in commercial plantations.",
+            "solutions": "Prune and burn severely infested fronds. Apply buprofezin or sulfoxaflor during crawler activity. Use high-pressure water sprays to dislodge scales. Introduce Chilocorus beetles. Avoid overwatering, which promotes scale reproduction."
+          },
+          "Nipaecoccus vastalor": {
+            "benefits": "None significant; invasive pest focus.",
+            "problems caused": "Citrus mealybug feeds on >200 plants, including citrus, cotton, and ornamentals. Causes leaf curling, fruit deformation, and honeydew-soaked foliage. Spreads viruses like citrus tristeza. Ant symbiosis complicates control. Severe infestations collapse young trees.",
+            "solutions": "Release Cryptolaemus montrouzieri predators. Apply soil drenches of dinotefuran. Spot-treat with alcohol-soaked swabs. Disrupt ant trails with borax baits. Remove weeds hosting mealybugs. Use pheromone traps for monitoring."
+          },
+          "Aleurocanthus spiniferus": {
+            "benefits": "Studied for virus transmission in whiteflies.",
+            "problems caused": "Spiny whitefly larvae suck sap from citrus, causing leaf yellowing, defoliation, and stunted growth. Heavy honeydew excretion leads to rampant sooty mold, reducing fruit quality. Vectors plant pathogens like citrus greening bacteria. Prevalent in Southeast Asia.",
+            "solutions": "Spray pyriproxyfen to disrupt molting. Release Encarsia smithi parasitoids. Apply neem oil to suffocate nymphs. Remove alternate hosts (e.g., guava). Use yellow sticky traps for adults. Avoid imidacloprid overuse to prevent resistance."
+          },
+          "Tetradacus c Bactrocera minax": {
+            "benefits": "Quarantine protocol research.",
+            "problems caused": "Chinese citrus fly larvae burrow into mandarins and oranges, causing internal rot and premature fruit drop. Infested fruits are unmarketable, with export restrictions imposed by pest-free countries. Adults puncture fruit skin, introducing fungal infections.",
+            "solutions": "Bag fruits with paper sleeves. Set methyl eugenol traps for males. Apply spinosad bait sprays to foliage. Collect and destroy fallen fruit. Enforce strict quarantine measures. Release sterile males to reduce populations."
+          },
+          "Dacus dorsalis(Hendel)": {
+            "benefits": "Invasion biology studies.",
+            "problems caused": "Oriental fruit fly attacks mango, guava, and peach, laying eggs under fruit skin. Larvae tunnel through pulp, causing mushiness and secondary rot. Infestations trigger export bans, devastating tropical fruit industries. Adults spread bacteria like Erwinia.",
+            "solutions": "Deploy methyl eugenol + malathion traps. Practice field sanitation (bury fallen fruit). Use protein bait sprays mixed with spinosad. Cold-treat fruits for export. Coordinate area-wide SIT (sterile insect technique) programs."
+          },
+          "Bactrocera tsuneonis": {
+            "benefits": "Host-shift behavior research.",
+            "problems caused": "Japanese orange fly targets citrus, causing pulp destruction and fruit drop. Larvae feed internally, making detection difficult until harvest. Infestations reduce juice quality and fresh market value. Major pest in East Asian orchards.",
+            "solutions": "Apply GF-120 fruit fly bait. Wrap tree trunks with deltamethrin-treated bands. Monitor with cue-lure traps. Remove wild citrus hosts. Use chilled storage for post-harvest disinfestation. Support parasitoid releases (Fopius arisanus)."
+          },
+          "Prodenia litura": {
+            "benefits": "Insecticide resistance model.",
+            "problems caused": "Tobacco cutworm larvae defoliate cotton, tomatoes, and cabbage overnight. Feeding creates ragged holes, stunts growth, and exposes plants to bacterial/fungal infections. Outbreaks escalate after heavy rains, causing 100% crop loss in unprotected fields.",
+            "solutions": "Spray emamectin benzoate or chlorantraniliprole. Deploy pheromone traps for mating disruption. Release Trichogramma chilonis egg parasitoids. Apply neem cake to soil. Intercrop with repellent plants (e.g., marigold). Avoid sequential planting of host crops."
+          },
+          "Adristyrannus": {
+            "benefits": "Wood-boring behavior studies.",
+            "problems caused": "Larvae tunnel into litchi and longan trunks, weakening structural integrity. Boreholes ooze sap and frass, attracting secondary pests. Severe infestations cause branch breakage during storms. Chronic damage reduces tree lifespan.",
+            "solutions": "Inject emamectin benzoate into boreholes. Seal wounds with pruning paint. Remove heavily infested branches. Apply chlorpyrifos granules to root zones. Encourage woodpecker populations. Avoid mechanical damage to bark during farming."
+          },
+          "Phyllocnistis citrella Stainton": {
+            "benefits": "Leaf miner-plant interaction studies.",
+            "problems caused": "Citrus leaf miner larvae create serpentine mines in young leaves, causing curling and necrosis. Damaged leaves become entry points for citrus canker bacteria. Severe infestations stunt nursery trees, delaying orchard establishment.",
+            "solutions": "Spray abamectin or cyantraniliprole during flush growth. Install pheromone traps for monitoring. Prune infested shoots. Apply kaolin clay as a barrier. Avoid excessive nitrogen, which promotes tender foliage. Conserve Cirrospilus ingenuus parasitoids."
+          },
+          "Toxoptera citricidus": {
+            "benefits": "CTV virus transmission studies.",
+            "problems caused": "Brown citrus aphid vectors citrus tristeza virus (CTV), killing trees grafted on sour orange rootstock. Colonies distort new shoots, excrete honeydew, and attract ants. CTV causes rapid decline, stem pitting, and yield loss in citrus-growing regions.",
+            "solutions": "Graft onto CTV-resistant rootstocks (e.g., Carrizo). Apply imidacloprid soil drenches. Release aphidophagous ladybirds (e.g., Harmonia axyridis). Remove virus-infected trees. Use UV-reflective mulches to deter aphids."
+          },
+          "Toxoptera aurantii": {
+            "benefits": "Aphid-predator dynamics research.",
+            "problems caused": "Black citrus aphid deforms young tea and cocoa shoots, causing leaf curl and stunting. Honeydew promotes sooty mold on leaves/beans, reducing photosynthesis and harvest quality. Vectors cacao swollen shoot virus in West Africa.",
+            "solutions": "Spray pymetrozine or flonicamid. Introduce syrphid fly larvae. Prune aphid-infested tips. Apply garlic-pepper repellent sprays. Maintain shade trees to buffer microclimates favoring aphids."
+          },
+          "Aphis citricola Vander Goot": {
+            "benefits": "Aphid-host shifting studies.",
+            "problems caused": "Sucks sap from citrus and weeds, causing leaf puckering and shoot stunting. Transmits citrus quick decline virus. Heavy infestations coat leaves in honeydew, attracting ants and sooty mold. Weakens nursery trees, delaying orchard productivity.",
+            "solutions": "Apply spiromesifen or sulfoxaflor. Remove alternate weed hosts (e.g., milkweed). Release lacewing larvae. Use aluminum mulch to repel aphids. Avoid broad-spectrum sprays harming natural enemies."
+          },
+          "Scirtothrips dorsalis Hood": {
+            "benefits": "Climate-driven invasion research.",
+            "problems caused": "Chilli thrips scar rose petals, pepper fruits, and citrus leaves, causing silvering, distortion, and flower drop. Feeding reduces marketability of ornamental plants and vegetable yields. Spreads tomato spotted wilt virus in greenhouse settings.",
+            "solutions": "Spray spinetoram or cyantraniliprole. Install blue sticky traps. Release predatory mites (Amblyseius swirskii). Weed regularly to eliminate thrips hosts. Use shade nets to reduce infestations in nurseries."
+          },
+          "Dasineura sp.": {
+            "benefits": "Gall formation ecology studies.",
+            "problems caused": "Gall midge larvae induce abnormal swellings in leaves/stems of crops like mango and wheat. Galls disrupt nutrient transport, causing wilting and yield loss. Secondary pathogens invade gall tissues, accelerating plant decline.",
+            "solutions": "Remove and burn galled plant parts. Apply chlorantraniliprole during adult emergence. Plant resistant cultivars. Flood fields to drown pupae. Encourage omnivorous soil mites. Avoid late-season nitrogen."
+          },
+          "Lawana imitata Melichar": {
+            "benefits": "Acoustic communication research.",
+            "problems caused": "Planthopper nymphs feed on mango and litchi sap, causing leaf yellowing and stunted panicles. Honeydew excretions coat fruits, promoting mold. Heavy infestations reduce flowering, impacting tropical fruit yields.",
+            "solutions": "Spray acetamiprid or thiamethoxam. Introduce reduviid predators. Prune dense foliage to improve airflow. Use yellow pan traps for monitoring. Avoid over-irrigation, which boosts planthopper survival."
+          },
+          "Salurnis marginella Guerr": {
+            "benefits": "Minor role in planthopper ecology.",
+            "problems caused": "Feeds on palm and banana leaves, causing chlorotic streaks and tip necrosis. Severe infestations reduce fruit size and delay ripening. Sooty mold from honeydew further stresses plants in commercial plantations.",
+            "solutions": "Apply clothianidin root drenches. Remove infested leaves manually. Release egg parasitoids (e.g., Anagrus spp.). Maintain proper potassium levels to enhance leaf toughness. Use fans in greenhouses to deter adults."
+          },
+          "Deporaus marginatus Pascoe": {
+            "benefits": "None significant; minor pest.",
+            "problems caused": "Leaf-rolling weevil damages young mango and guava leaves, rolling them into shelters for larvae. Rolled leaves cannot photosynthesize, stunting tree growth. Severe cases defoliate nurseries, delaying transplantation.",
+            "solutions": "Handpick and destroy rolled leaves. Spray deltamethrin at dusk when adults are active. Apply Beauveria bassiana fungi. Remove weed hosts. Use light traps to catch nocturnal adults."
+          },
+          "Chlumetia transversa": {
+            "benefits": "Moth pheromone studies.",
+            "problems caused": "Larvae bore into mango shoots, causing wilting and dieback. Entry holes exude gum and frass, attracting secondary pests. Chronic infestations reduce flowering and fruiting, particularly in South Asian orchards.",
+            "solutions": "Prune and burn infested shoots. Spray emamectin benzoate during egg-laying peaks. Apply neem cake to soil. Encourage braconid wasp parasitoids. Avoid water stress, which attracts egg-laying moths."
+          },
+          "Mango flat beak leafhopper": {
+            "benefits": "Acoustic signaling research.",
+            "problems caused": "Sucks sap from mango panicles, causing flower drop and reduced fruit set. Excretions lead to sooty mold on fruits, lowering market grade. Heavy infestations cause premature leaf yellowing and tip burn in nurseries.",
+            "solutions": "Apply thiamethoxam or dinotefuran. Install light traps to catch adults. Prune overlapping branches to reduce habitat. Release egg parasitoids (Gonatocerus spp.). Use reflective mulches to deter nymphs."
+          },
+     "Rhytidodera bowrinii white": {
+            "benefits": "Borer-host interaction studies.",
+            "problems caused": "Larvae tunnel into mango and fig branches, causing structural weakness. Infested limbs snap under wind or fruit load. Boreholes leak sap, attracting wood-boring beetles. Chronic infestations kill mature trees.",
+            "solutions": "Inject dichlorvos into active boreholes. Wrap trunks with insecticide-treated nets. Remove and burn severely infested trees. Apply imidacloprid soil drenches. Encourage clerid beetle predators."
+          },
+     "Sternochetus frigidus": {
+            "benefits": "Thermal adaptation research.",
+            "problems caused": "Mango seed weevil larvae destroy seeds, causing fruit abortion or worthless Adults feed on flowers, reducing pollination. Infested fruits fail germination, impacting seedling production. Major pest in South Asia.",
+            "solutions": "Hot water treat harvested fruits (47°C for 75 mins). Fumigate storage areas with phosphine. Collect and destroy fallen fruits. Release braconid parasitoids (e.g., Foenus spp.). Enforce pre-export irradiation protocols."
+          },
+    "Cicadellidae": {
+      "benefits": "Virus-vector relationship studies.",
+      "problems caused": "Leafhoppers transmit phytoplasmas (e.g., citrus greening) and viruses (e.g., maize mosaic virus). Feeding causes —yellowing, curling, and necrosis of leaves. Nymphs excrete sticky honeydew, promoting mold. Major threat to cereals and orchards.",
+      "solutions": "Apply systemic neonicotinoids (e.g., thiamethoxam). Use reflective mulches to disorient nymphs. Plant resistant varieties. Encourage spiders and egg parasitoids (Anagrus spp.). Remove grassy weeds hosting nymphs."
+          }
+        }

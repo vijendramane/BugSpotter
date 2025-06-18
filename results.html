@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detection Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            height: 100vh;
+        }
+
+        .image-box, .info-box {
+            width: 50%;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        .image-box {
+            background-color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image-box img {
+            max-width: 100%;
+            max-height: 90%;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+
+        .info-box {
+            background-color: #eaf6ff;
+            border-left: 3px solid #2a9fd6;
+        }
+
+        .info-box h2 {
+            color: #2a9fd6;
+            margin-bottom: 10px;
+        }
+
+        .info-box h3 {
+            margin-top: 20px;
+            color: #333;
+        }
+
+        .info-box p {
+            color: #444;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .btn-back {
+            margin-top: 30px;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #2a9fd6;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn-back:hover {
+            background-color: #2479a9;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Left: Output Image -->
+    <div class="image-box">
+        <img src="{{ url_for('display', filename=image_path) }}" alt="Detected Image">
+    </div>
+
+    <!-- Right: Insect Info -->
+    <div class="info-box">
+        <h2>Detected Insect: {{ class_name }}</h2>
+        <h4><strong>🧬 Benefits:</strong></h4>
+        <p>{{ info["benefits"] }}</p>
+
+        <h4><strong>🪲 Problems Caused:</strong></h4>
+        <p>{{ info["problems caused"] }}</p>
+
+        <h4><strong>💡 Solutions:</strong></h4>
+        <p>{{ info["solutions"] }}</p>
+
+        <a href="{{ url_for('hello_world') }}" class="btn-back">⬅️ Back to Upload</a>
+    </div>
+</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Detection Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f2f2f2;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            width: 100%;
+            height: 100vh;
+        }
+
+        .image-box, .info-box {
+            width: 50%;
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        .image-box {
+            background-color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image-box img {
+            max-width: 100%;
+            max-height: 90%;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+
+        .info-box {
+            background-color: #eaf6ff;
+            border-left: 3px solid #2a9fd6;
+        }
+
+        .info-box h2 {
+            color: #2a9fd6;
+            margin-bottom: 10px;
+        }
+
+        .info-box h3 {
+            margin-top: 20px;
+            color: #333;
+        }
+
+        .info-box p {
+            color: #444;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .btn-back {
+            margin-top: 30px;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #2a9fd6;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn-back:hover {
+            background-color: #2479a9;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Left: Output Image -->
+    <div class="image-box">
+        <img src="{{ url_for('display', filename=image_path) }}" alt="Detected Image">
+    </div>
+
+    <!-- Right: Insect Info -->
+    <div class="info-box">
+        <h2>Detected Insect: {{ class_name }}</h2>
+        <h4><strong>🧬 Benefits:</strong></h4>
+        <p>{{ info["benefits"] }}</p>
+
+        <h4><strong>🪲 Problems Caused:</strong></h4>
+        <p>{{ info["problems caused"] }}</p>
+
+        <h4><strong>💡 Solutions:</strong></h4>
+        <p>{{ info["solutions"] }}</p>
+
+        <a href="{{ url_for('hello_world') }}" class="btn-back">⬅️ Back to Upload</a>
+    </div>
+</div>
+
+</body>
+</html>  
+
