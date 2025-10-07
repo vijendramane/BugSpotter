@@ -76,7 +76,7 @@
 #                     if not ret:
 #                         break                                                      
 
-#                     # do YOLOv8 detection on the frame here
+#                     # do YOLOv8 detection on the frame here 
 #                     #model = YOLO(r'C:\Users\vijen\Desktop\yolov8_env\Object-Detection-Web-Application-with-Flask-and-YOLOv9-main\best.pt')
 #                     results = model(frame, save=True)  #working
 #                     print(results)
