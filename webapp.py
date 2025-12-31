@@ -375,7 +375,7 @@ def predict_img():
 
             if file_extension == 'jpg':
                 img = cv2.imread(filepath)
-
+ 
                 # Load YOLO model
                 model = YOLO(r'C:\Users\vijen\Desktop\yolov8_env\Object-Detection-Web-Application-with-Flask-and-YOLOv9-main\best.pt')
                 results = model(img, save=True)
